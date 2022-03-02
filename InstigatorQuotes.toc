@@ -1,0 +1,10 @@
+## Interface: 110307
+## Title: FunPerHour
+## Author: Hylly (1 - 12)
+## eMail: 
+## URL: 
+## Notes: Spits out a random Instigator-Faerlina quote
+## Version: 1.0
+## SavedVariables: quoteChannel
+InsigatorQuotes.lua
+Quotes.lua
