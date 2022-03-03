@@ -8,9 +8,9 @@ quoteChannel = "SAY"
 
 function quoteOut()
 local out = gatrQuotes.quote[math.random(1, #gatrQuotes.quote) ] 
-print(out)
---SendChatMessage("test", quoteChannel)
-print("It ran")
+--print(out)
+SendChatMessage(out, quoteChannel)
+--print("It ran")
 
 end
 
