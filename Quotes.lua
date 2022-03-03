@@ -1,6 +1,6 @@
-local _, quotes = ...																									
+local _, gatrQuotes = ...																									
 
-quotes = {
-"Who is munyanyo?",
-"Look at your hands!",
+gatrQuotes.quote = {
+'Who is munyanyo?',
+'Look at your hands!',
 }

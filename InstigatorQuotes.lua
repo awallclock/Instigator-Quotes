@@ -1,22 +1,16 @@
-local addonName, quotes = ...
+local addonName, gatrQuotes = ...
 
 quoteChannel = "SAY"
 
 
 
-function tableLength(T)
-	local count = 0
-	for _ in pairs(T) do count = count + 1 end
-	return count
-end
-
 
 
 function quoteOut()
-local tableLen = tableLength(Quotes)
-local randomNumber = math.random(tableLen)
-local quote = Quotes(randomNumber)
-SendChatMessage(quote, quoteChannel)
+local out = gatrQuotes.quote[math.random(1, #gatrQuotes.quote) ] 
+print(out)
+--SendChatMessage("test", quoteChannel)
+print("It ran")
 
 end
 
@@ -99,7 +93,7 @@ local function quoteCommands(str)
 end
 
 
-SLASH_INSTIGATORQUOTES1, SLASH_INSTIGATORQUOTES2 = '/gator', '/gatr', '/GATOR', '/gatr'
+SLASH_INSTIGATORQUOTES1, SLASH_INSTIGATORQUOTES2 = '/gator', '/gatr', '/GATOR', '/GATR'
 SlashCmdList.INSTIGATORQUOTES = quoteCommands
 
 
