@@ -25,11 +25,11 @@ commands = {
 		quoteOut()
 		end,
 	["raidwarning"] = function(...)
-		quoteChannel = "RAIDWARNING"
+		quoteChannel = "RAID_WARNING"
 		quoteOut()
 		end,
 	["rw"] = function(...)
-		quoteChannel = "RAIDWARNING"
+		quoteChannel = "RAID_WARNING"
 		quoteOut()
 		end,
 	["party"] = function(...)
@@ -48,6 +48,15 @@ commands = {
 		quoteChannel = "SAY"
 		quoteOut()
 		end,
+	["g"] = function(...)
+		quoteChannel = "GUILD"
+		quoteOut()
+		end,
+	["guild"] = function(...)
+		quoteChannel = "GUILD"
+		quoteOut()
+		end,
+	
 }
 local function quoteCommands(str)
 
