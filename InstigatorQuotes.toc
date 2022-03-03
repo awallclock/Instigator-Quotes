@@ -1,9 +1,9 @@
-## Interface: 110307
-## Title: InstigatorQuotes
+## Interface: 42328
+## Title: Instigator Quotes
 ## Author: Hylly (1 - 12)
 ## eMail: 
 ## URL: 
-## Notes: Spits out a random Instigator-Faerlina quote
+## Notes: Spits out a random Instigators-Faerlina quote
 ## Version: 1.0
 ## SavedVariables: quoteChannel
 InstigatorQuotes.lua
