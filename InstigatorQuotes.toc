@@ -1,4 +1,4 @@
-## Interface: 42328
+## Interface: 20503
 ## Title: Instigator Quotes
 ## Author: Hylly (1 - 12)
 ## eMail: 
