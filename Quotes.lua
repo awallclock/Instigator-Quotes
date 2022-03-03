@@ -16,5 +16,7 @@ gatrQuotes.quote = {
 'GATORS! I CHOOSE YOU!'
 'JOOOOE BIDEN'
 'Did you know Kentucky is the only state that starts with the letter K?'
+'CHOMPCHOMP'
+'GATRS BITCHES BEST BE WEARING JIMMIES'
 
 }
