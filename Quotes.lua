@@ -2,7 +2,7 @@ local _, gatrQuotes = ...
 
 gatrQuotes.quote = {
 'Who is munyanyo?',
-'Look at your hands!'
+'Look at your hands!',
 'Cancelled',
 'Bing Bong!',
 'My dentist just called...',
@@ -19,5 +19,8 @@ gatrQuotes.quote = {
 'CHOMPCHOMP',
 'GATRS BITCHES BEST BE WEARING JIMMIES',
 'Hello?',
+'Your mother',
+'MOY IS OUR BOY',
+'
 
 }
