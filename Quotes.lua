@@ -20,6 +20,6 @@ gatrQuotes.quote = {
 'GATRS BITCHES BEST BE WEARING JIMMIES',
 'Hello?',
 'Your mother',
-'MOY IS OUR BOY',
+'MOY\'S OUR BOY',
 
 }
