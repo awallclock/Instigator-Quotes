@@ -14,12 +14,13 @@ gatrQuotes.quote = {
 'GATOR ATTACK!',
 'BITE BITE!',
 'GATORS! I CHOOSE YOU!',
-'JOOOOE BIDEN',
+'JOOOOOOOOOE BIDEN',
 'Did you know Kentucky is the only state that starts with the letter K?',
 'CHOMPCHOMP',
 'GATRS BITCHES BEST BE WEARING JIMMIES',
 'Hello?',
 'Your mother',
 'MOY\'S OUR BOY',
+'She pisses when she farts. Sometimes she sharts.',
 
 }
