@@ -21,6 +21,6 @@ gatrQuotes.quote = {
 'Hello?',
 'Your mother',
 'MOY IS OUR BOY',
-'
+
 
 }
