@@ -22,5 +22,4 @@ gatrQuotes.quote = {
 'Your mother',
 'MOY IS OUR BOY',
 
-
 }
