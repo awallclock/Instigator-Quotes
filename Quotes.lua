@@ -23,5 +23,9 @@ gatrQuotes.quote = {
 'MOY\'S OUR BOY',
 'She pisses when she farts. Sometimes she sharts.',
 'You guys are really good. Did you play private servers?',
+'Desk pop',
+'How does the floor smell, Thicc?',
+'brb gonna go play glue world',
+'I am monobear'
 
 }
