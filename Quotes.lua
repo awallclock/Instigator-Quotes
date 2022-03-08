@@ -4,7 +4,7 @@ gatrQuotes.quote = {
 'Who is munyanyo?',
 'Look at your hands!',
 'Cancelled',
-'Bing Bong!',
+'Bing Bong',
 'My dentist just called...',
 'Energy. Power. Cum. My people are addicted to it...',
 'Stay in your lane, Tethal',
@@ -22,5 +22,6 @@ gatrQuotes.quote = {
 'Your mother',
 'MOY\'S OUR BOY',
 'She pisses when she farts. Sometimes she sharts.',
+'You guys are really good. Did you play private servers?',
 
 }
