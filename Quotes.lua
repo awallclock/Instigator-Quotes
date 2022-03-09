@@ -26,6 +26,7 @@ gatrQuotes.quote = {
 'Desk pop',
 'How does the floor smell, Thicc?',
 'brb gonna go play glue world',
-'I am monobear'
+'I am monobear',
+'THE BEACONS ARE LIT!!!',
 
 }
