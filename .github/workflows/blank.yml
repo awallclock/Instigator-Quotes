@@ -1,4 +1,5 @@
 package-as: InstigatorQuotes
+on: [push]
 enable-nolib-creation: no
 
 externals:

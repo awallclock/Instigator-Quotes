@@ -13,7 +13,6 @@ gatrQuotes.quote = {
 'CYA L8R IM A G8R',
 'GATOR ATTACK!',
 'BITE BITE!',
-'GATORS! I CHOOSE YOU!',
 'JOOOOOOOOOE BIDEN',
 'Did you know Kentucky is the only state that starts with the letter K?',
 'CHOMPCHOMP',
