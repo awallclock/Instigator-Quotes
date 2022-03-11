@@ -18,6 +18,7 @@ gatrQuotes.quote = {
 'CHOMPCHOMP',
 'GATRS BITCHES BEST BE WEARING JIMMIES',
 'Hello?',
+'Chupapi',
 'Your mother',
 'MOY\'S OUR BOY',
 'She pisses when she farts. Sometimes she sharts.',
