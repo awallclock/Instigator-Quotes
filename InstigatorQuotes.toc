@@ -6,5 +6,7 @@
 ## Notes: Spits out a random Instigators-Faerlina quote
 ## Version: 1.0
 ## SavedVariables: quoteChannel
+## X-Curse-Project-ID: 585514
+## X-Wago-ID: R4N2a0GL
 InstigatorQuotes.lua
 Quotes.lua
