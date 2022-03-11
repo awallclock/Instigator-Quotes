@@ -28,4 +28,5 @@ gatrQuotes.quote = {
 'I am monobear',
 'THE BEACONS ARE LIT!!!',
 
+
 }
