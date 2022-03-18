@@ -28,6 +28,7 @@ gatrQuotes.quote = {
 'brb gonna go play glue world',
 'I am monobear',
 'THE BEACONS ARE LIT!!!',
+'You choose what you hear',
 
 
 }
