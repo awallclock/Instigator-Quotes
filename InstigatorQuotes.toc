@@ -7,5 +7,6 @@
 ## SavedVariables: quoteChannel
 ## X-Curse-Project-ID: 585514
 ## X-Wago-ID: R4N2a0GL
+## Interface-TBC: 20502
 InstigatorQuotes.lua
 Quotes.lua
