@@ -1,5 +1,5 @@
+## Interface: 20502
 ## Title: Instigator Quotes
-## Interface-BCC: 20502
 ## Author: Hylly (1 - 12)
 ## eMail: 
 ## URL: 
