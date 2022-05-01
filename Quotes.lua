@@ -26,6 +26,7 @@ gatrQuotes.quote = {
 'I am monobear',
 'THE BEACONS ARE LIT!!!',
 'You choose what you hear',
+'I\'m a god, don\'t pull'
 
 
 }
